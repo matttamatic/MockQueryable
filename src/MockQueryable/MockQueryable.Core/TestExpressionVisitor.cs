@@ -2,7 +2,7 @@
 
 namespace MockQueryable.Core
 {
-	public class TestExpressionVisitor : ExpressionVisitor
-	{
-	}
+    public class TestExpressionVisitor : ExpressionVisitor
+    {
+    }
 }
